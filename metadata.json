@@ -1,0 +1,7 @@
+{
+  "name": "AI Wine Sommelier",
+  "description": "Snap a photo of any wine bottle or label and get instant expert reviews, tasting notes, scores, and pricing information from world-renowned sources.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
