@@ -5,6 +5,6 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   // Adjust this base path if you are deploying to a subdirectory 
   // (e.g., '/my-repo-name/' for GitHub Pages)
-  base: '/',
+  base: '/Sommelier-companion/',
   plugins: [react()],
 })
