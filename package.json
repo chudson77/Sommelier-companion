@@ -22,5 +22,6 @@
     "tailwindcss": "^3.4.3",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
+    "homepage": "https://chudson77.github.io/Sommelier-companion"
   }
 }
